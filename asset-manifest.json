@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/GabrielGamy/aether/static/css/main.b69e237f.chunk.css",
-    "main.js": "/GabrielGamy/aether/static/js/main.3483587d.chunk.js",
-    "main.js.map": "/GabrielGamy/aether/static/js/main.3483587d.chunk.js.map",
-    "runtime-main.js": "/GabrielGamy/aether/static/js/runtime-main.a535b8ee.js",
-    "runtime-main.js.map": "/GabrielGamy/aether/static/js/runtime-main.a535b8ee.js.map",
-    "static/js/2.5c515ccf.chunk.js": "/GabrielGamy/aether/static/js/2.5c515ccf.chunk.js",
-    "static/js/2.5c515ccf.chunk.js.map": "/GabrielGamy/aether/static/js/2.5c515ccf.chunk.js.map",
-    "static/js/3.43593f34.chunk.js": "/GabrielGamy/aether/static/js/3.43593f34.chunk.js",
-    "static/js/3.43593f34.chunk.js.map": "/GabrielGamy/aether/static/js/3.43593f34.chunk.js.map",
-    "index.html": "/GabrielGamy/aether/index.html",
-    "static/css/main.b69e237f.chunk.css.map": "/GabrielGamy/aether/static/css/main.b69e237f.chunk.css.map",
-    "static/js/2.5c515ccf.chunk.js.LICENSE.txt": "/GabrielGamy/aether/static/js/2.5c515ccf.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/GabrielGamy/aether/static/media/sky.10ec4b6d.jpg"
+    "main.css": "/aether/static/css/main.515ddb7f.chunk.css",
+    "main.js": "/aether/static/js/main.3483587d.chunk.js",
+    "main.js.map": "/aether/static/js/main.3483587d.chunk.js.map",
+    "runtime-main.js": "/aether/static/js/runtime-main.2a020d0c.js",
+    "runtime-main.js.map": "/aether/static/js/runtime-main.2a020d0c.js.map",
+    "static/js/2.5c515ccf.chunk.js": "/aether/static/js/2.5c515ccf.chunk.js",
+    "static/js/2.5c515ccf.chunk.js.map": "/aether/static/js/2.5c515ccf.chunk.js.map",
+    "static/js/3.43593f34.chunk.js": "/aether/static/js/3.43593f34.chunk.js",
+    "static/js/3.43593f34.chunk.js.map": "/aether/static/js/3.43593f34.chunk.js.map",
+    "index.html": "/aether/index.html",
+    "static/css/main.515ddb7f.chunk.css.map": "/aether/static/css/main.515ddb7f.chunk.css.map",
+    "static/js/2.5c515ccf.chunk.js.LICENSE.txt": "/aether/static/js/2.5c515ccf.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/aether/static/media/sky.10ec4b6d.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a535b8ee.js",
+    "static/js/runtime-main.2a020d0c.js",
     "static/js/2.5c515ccf.chunk.js",
-    "static/css/main.b69e237f.chunk.css",
+    "static/css/main.515ddb7f.chunk.css",
     "static/js/main.3483587d.chunk.js"
   ]
 }
