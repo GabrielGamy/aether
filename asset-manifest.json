@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/aether/static/css/main.515ddb7f.chunk.css",
+    "main.css": "/aether/static/css/main.289a48ec.chunk.css",
     "main.js": "/aether/static/js/main.3483587d.chunk.js",
     "main.js.map": "/aether/static/js/main.3483587d.chunk.js.map",
     "runtime-main.js": "/aether/static/js/runtime-main.2a020d0c.js",
@@ -10,14 +10,14 @@
     "static/js/3.43593f34.chunk.js": "/aether/static/js/3.43593f34.chunk.js",
     "static/js/3.43593f34.chunk.js.map": "/aether/static/js/3.43593f34.chunk.js.map",
     "index.html": "/aether/index.html",
-    "static/css/main.515ddb7f.chunk.css.map": "/aether/static/css/main.515ddb7f.chunk.css.map",
+    "static/css/main.289a48ec.chunk.css.map": "/aether/static/css/main.289a48ec.chunk.css.map",
     "static/js/2.5c515ccf.chunk.js.LICENSE.txt": "/aether/static/js/2.5c515ccf.chunk.js.LICENSE.txt",
     "static/media/App.css": "/aether/static/media/sky.10ec4b6d.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.2a020d0c.js",
     "static/js/2.5c515ccf.chunk.js",
-    "static/css/main.515ddb7f.chunk.css",
+    "static/css/main.289a48ec.chunk.css",
     "static/js/main.3483587d.chunk.js"
   ]
 }
